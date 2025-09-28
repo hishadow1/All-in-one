@@ -66,7 +66,7 @@ animate_progress() {
 clear
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e "${CYAN}           🚀 PTERODACTYL PANEL UPDATER           ${NC}"
-echo -e "${CYAN}                 by Nobita-hosting               ${NC}"
+echo -e "${CYAN}                 by SHADOW               ${NC}"
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}\n"
 
 # Check if running as root
@@ -174,7 +174,7 @@ echo -e "  ${CYAN}•${NC} Verify all functionality is working correctly"
 echo -e "  ${CYAN}•${NC} Check server status in the dashboard"
 echo -e ""
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "${CYAN}           Thank you for using Nobita-hosting!   ${NC}"
+echo -e "${CYAN}           Thank you for using SHADOW-hosting!   ${NC}"
 echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 
 # Wait for user to see completion message
